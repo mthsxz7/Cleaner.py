@@ -18,7 +18,7 @@ Cleaner.py é um script em Python para remover arquivos temporários e desnecess
 git clone https://github.com/mthsxz7/cleaner.py.git
 
 cd cleaner.py
-
+```
 3️⃣ Execução
 
 python main.py
@@ -38,4 +38,4 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para m
 
 
 Criado por mthsxz7 🚀
-```
+
